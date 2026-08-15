@@ -33,7 +33,7 @@ I am a **Machine Learning Engineer** specializing in applied Generative AI, LLM 
 
 ### 🚀 Featured Projects & Research
 
-#### 🤖 [Plantroid: Autonomous Agentic Dialogue System](#) *(Ongoing)*
+#### 🤖 [Plantroid: Autonomous Agentic Dialogue System](#) 
 Developed a context-aware, multi-turn conversational agent for a robotic system ("Plantroid") using **LangGraph**. 
 * **Graph-Based Reasoning:** Implemented state graphs to handle complex logic, including dynamic web searches (DuckDuckGo) and sensor notification interruptions (e.g., low soil moisture).
 * **Local LLM Integration:** Built to run efficiently on local backends via **Ollama** (Qwen 2.5:7b/0.5b) and **LM Studio**.
@@ -41,7 +41,6 @@ Developed a context-aware, multi-turn conversational agent for a robotic system 
 * **Stack:** Python, LangGraph, Ollama, LLMs, DuckDuckGo API.
 
 #### 🧠 [Cognitive Mirror](https://github.com/buymerivka/Cognitive-Mirror) | *ML Engineer*
-*🌐 [Live Website](https://cognitive--mirror.com)*
 * Developed a web-based text analysis platform for propaganda detection and logical fallacies identification.
 * Fine-tuned **BERTweet** on custom preprocessed datasets, achieving **85% F1** for propaganda detection.
 * **Stack:** PyTorch, Hugging Face Transformers, FastAPI, React.
