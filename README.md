@@ -1,78 +1,66 @@
-## Hi there 👋
+# Hi there, I'm Yehor Kuzmych 👋
 
-<!--
-**yehor-kuzmych/Yehor-Kuzmych** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-# Yehor Kuzmych
-
-📍 Cracow, Poland
-📞 +48 451 245 127
-✉️ [yehor.kuzmych@gmail.com](mailto:yehor.kuzmych@gmail.com)
-🔗 [GitHub](https://github.com/yehor-kuzmych) | [LinkedIn](https://www.linkedin.com/in/yehor-kuzmych-b78453353/)
+<div align="left">
+  <a href="mailto:yehor.kuzmych@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/yehor-kuzmych-b78453353/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/yehor-kuzmych">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
 
 ---
 
-## Summary
+### 👨‍💻 About Me
 
-Junior Machine Learning Engineer with strong analytical and problem-solving skills, specializing in **machine learning**, **natural language processing**, and **deep learning**. Experienced in fine-tuning transformer-based models and applying advanced preprocessing techniques to improve performance in real-world text analysis tasks. Detail-oriented and a quick learner, with the ability to adapt to new tools, frameworks, and methodologies. Possess a solid foundation in mathematics, algorithms, and computer science theory, ensuring rigorous and efficient model development. Actively seeking opportunities to apply expertise and grow within challenging **ML / NLP** positions.
+I am a **Machine Learning Engineer** specializing in applied Generative AI, LLM system architecture, and advanced Natural Language Processing. I focus on bridging theoretical AI research with efficient, production-ready engineering solutions, particularly in building autonomous agents and RAG pipelines.
 
----
-
-## Skills
-
-* **Programming/Tools:** Python, Scikit-learn, Hugging Face Transformers, C/C++, Java, SQL, Git, PyTorch, Pandas
-* **ML/NLP:** Classification, Feature extraction & Preprocessing, Linear/Logistic Regression, Clustering, Regularisations
-* **Communication:** English, Ukrainian, Russian, Polish
+* 🔭 **Currently building:** Autonomous LLM agents using LangGraph and local models (Ollama).
+* 🔬 **Currently researching:** Machine unlearning to mitigate harmful image-generation capabilities in generative models.
+* 🌱 **Main focus:** Agentic Workflows, LLM Integration, Guided Decoding, and scalable NLP architectures.
+* 📍 **Location:** Warsaw / Cracow, Poland
 
 ---
 
-## Project
+### 🛠️ Tech Stack & Skills
 
-**Cognitive Mirror**
-🌐 [Website](https://cognitive--mirror.com) | 💻 [GitHub](https://github.com/buymerivka/Cognitive-Mirror)
-
-Developed and deployed a web-based text analysis platform using transformer-based models for propaganda detection, logical fallacies identification, and emotions classification. Fine-tuned BERTweet on preprocessed datasets, achieving **85% F1** for propaganda detection and **78% F1** for manipulation identification. Iterated extensively on model training and preprocessing to optimize performance, and served the models via a React frontend with a FastAPI backend for real-time inference.
-
-**Stack:** Python, Pandas, Transformers, PyTorch, Scikit-learn, FastAPI, React
+* **Languages:** Python, C/C++, Java, SQL
+* **Machine Learning & AI:** LangGraph, Generative AI, LLM Agents, Prompt Engineering, Guided Decoding, NLP, Machine Unlearning
+* **Frameworks & Libraries:** PyTorch, Hugging Face Transformers, LangChain, FastAPI, Pydantic
+* **Tools & Infrastructure:** Ollama, LM Studio, Vector Databases, Git, Jupyter
 
 ---
 
-## Achievements and Extra Activity
+### 🚀 Featured Projects & Research
 
-**Winner of regional and national olympiads — Kharkiv, Ukraine**
-*As a student in Kharkiv Physics and Mathematics Lyceum №27*
+#### 🤖 [Plantroid: Autonomous Agentic Dialogue System](#) *(Ongoing)*
+Developed a context-aware, multi-turn conversational agent for a robotic system ("Plantroid") using **LangGraph**. 
+* **Graph-Based Reasoning:** Implemented state graphs to handle complex logic, including dynamic web searches (DuckDuckGo) and sensor notification interruptions (e.g., low soil moisture).
+* **Local LLM Integration:** Built to run efficiently on local backends via **Ollama** (Qwen 2.5:7b/0.5b) and **LM Studio**.
+* **Emotion & State Management:** Engineered LLM pipelines for real-time intent classification and emotion detection, automatically mapping predicted emotions (e.g., *happy*, *sad*, *surprise*) to speech prosody parameters for voice synthesis. 
+* **Stack:** Python, LangGraph, Ollama, LLMs, DuckDuckGo API.
 
-* 🥉 Third place in the All-Ukrainian Online Olympiad in mathematics (Dec 2021)
-* 🥈 Second place in the All-Ukrainian Olympiad in geometry (Spring 2021)
-* 🥈 Second place in the Regional Olympiad in informatics (Autumn 2021)
+#### 🧠 [Cognitive Mirror](https://github.com/buymerivka/Cognitive-Mirror) | *ML Engineer*
+*🌐 [Live Website](https://cognitive--mirror.com)*
+* Developed a web-based text analysis platform for propaganda detection and logical fallacies identification.
+* Fine-tuned **BERTweet** on custom preprocessed datasets, achieving **85% F1** for propaganda detection.
+* **Stack:** PyTorch, Hugging Face Transformers, FastAPI, React.
 
-**Volunteering**
+#### 🔬 Machine Unlearning Research Project 
+* Researching and extending [**SEMU**](https://arxiv.org/pdf/2502.07587) (a published machine unlearning approach) for efficient unlearning of harmful capabilities in generative models.
+* Designing and evaluating algorithmic modifications to optimize model applicability and parameter efficiency, targeting academic publication.
 
-* Helping with Junior Olympiads and volunteering as a jury (Sep 2018 – May 2023)
-* Member of Computer Science Students' Association – KSI UJ
+#### 🏆 Huawei Tech Arena Warsaw Finalist 
+* Developed a lightweight NLP model for semantic text similarity under strict memory and parameter constraints, optimizing inference speed without sacrificing accuracy.
 
 ---
 
-## Education
+### 🎓 Education
 
 **Jagiellonian University — Cracow, Poland**
-*Bachelor's in Computer Science (Expected graduation: June 2026)*
-
-**Relevant Courses:**
-
-* **Computer Science:** Introduction to Artificial Intelligence, Computing in Python / C++, Algorithms and Data Structures, Numerical Methods
-* **Mathematics:** Mathematical Analysis, Discrete Mathematics, Probability and Statistics, Graph Theory
-
+*Bachelor's in Computer Science (Oct 2023 – Jul 2026)*
+* **GPA:** 4.5/5.0
+* **Relevant Coursework:** Foundations of AI, Algorithms and Data Structures, Cognitive Robotics, Probability and Statistics, Numerical Methods.
